@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VoteApp</string>
+    <string name="text_countdown">Count Down To Election Day</string>
+    <string name="seconds">Seconds</string>
+    <string name="minutes">Minutes</string>
+    <string name="hours">Hours</string>
+    <string name="next">Next</string>
+    <string name="days">Days</string>
+</resources>
